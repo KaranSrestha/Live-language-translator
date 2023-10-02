@@ -19,25 +19,25 @@ This is a simple web application for translating text from one language to anoth
 
 Open the index.html file in your web browser.
 
-How to Use
-Enter text to be translated in the "Enter text" textarea.
+## How to Use
+1. Enter text to be translated in the "Enter text" textarea.
 
-Select the source language from the left dropdown menu.
+2. Select the source language from the left dropdown menu.
 
-Select the target language from the right dropdown menu.
+3. Select the target language from the right dropdown menu.
 
-Click the "Translate" button to get the translation in the "Translation" textarea.
+4. Click the "Translate" button to get the translation in the "Translation" textarea.
 
-You can click the speaker icons to listen to the original or translated text.
+5. You can click the speaker icons to listen to the original or translated text.
 
-Use the copy and paste buttons for convenient text copying and pasting.
+6. Use the copy and paste buttons for convenient text copying and pasting.
 
-Contributing
+## Contributing
 If you'd like to contribute to this project, please open an issue or submit a pull request.
 
-Acknowledgments
-Fonts provided by Google Fonts.
-Icons provided by FontAwesome.
+## Acknowledgments
+1.Fonts provided by Google Fonts.
+2.Icons provided by FontAwesome.
 
-Authors
+## Authors
 Karan Srestha
