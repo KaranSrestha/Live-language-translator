@@ -90,4 +90,8 @@ body{
     color: white;
     cursor: pointer;
     border-radius: 5px;
+    box-shadow: 0 0 5px 2px #bbb;
+}
+.container button:hover{
+    background-color: rgb(38, 89, 201);
 }
